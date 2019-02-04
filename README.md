@@ -10,6 +10,18 @@ Developing environment is below.
 - Unity 2018.3系
 - Github for Unity
 
+## Usage
+
+このリポジトリをcloneして、Unityでプロジェクトファイルを開くことで開発/ビルドすることが可能です。
+もともとGithub for Unityが入っている状態でクローンされることになります。
+
+### Steps
+
+- ```git clone https://github.com/drumath2237/Minedraft.git``` によって特定のディレクトリにリポジトリをクローンします。
+- プロジェクトをUnityで開きます。
+- ```Assets/Scenes/SampleScene.unity``` を開きます。
+- ```Ctrl+P``` でで実行、 ```Ctrl+B``` でビルドを行います。
+
 ## Functions
 
 実装したいなぁという機能は  
